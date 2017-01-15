@@ -1,0 +1,3 @@
+def crypt(input,shift)
+input.each do
+end
